@@ -9,7 +9,7 @@ This page is where Moss is downloaded. Moss's own code is private; this reposito
 | | Download | Needs |
 |---|---|---|
 | **Moss for Mac** | [Latest Mac release](https://github.com/TheFlamesOfFury/moss-releases/releases/tag/mac-v1.0.0) (`Moss-1.0.0.dmg`) | macOS 26 or later, Apple-chip or Intel |
-| **Moss for Windows** | [Latest Windows release](https://github.com/TheFlamesOfFury/moss-releases/releases/tag/windows-v0.3.1) (`Moss-Setup-0.3.1.exe`) | 64-bit Windows 10 (version 2004 or later) or Windows 11 |
+| **Moss for Windows** | [Latest Windows release](https://github.com/TheFlamesOfFury/moss-releases/releases/tag/windows-v0.3.2) (`Moss-Setup-0.3.2.exe`) | 64-bit Windows 10 (version 2004 or later) or Windows 11 |
 
 Each release lists the file's SHA-256, so you can check your download.
 
@@ -17,7 +17,7 @@ Each release lists the file's SHA-256, so you can check your download.
 Open the DMG and drag Moss to Applications. Moss isn't notarised yet, so the first time macOS stops it: go to **System Settings → Privacy & Security** and click **Open Anyway** (once).
 
 ### Installing on Windows
-Run `Moss-Setup-0.3.1.exe`. It installs for your Windows user only (no admin needed) and includes everything Moss needs. Moss isn't code-signed yet, so Windows may say "Windows protected your PC" or "unknown publisher": choose **More info → Run anyway**. Uninstall from **Settings → Apps**.
+Run `Moss-Setup-0.3.2.exe`. It installs for your Windows user only (no admin needed) and includes everything Moss needs. Moss isn't code-signed yet, so Windows may say "Windows protected your PC" or "unknown publisher": choose **More info → Run anyway**. Uninstall from **Settings → Apps**.
 
 Moss for Windows can check for updates once a day. It's off until you switch it on (on the welcome page or in Settings). Updates are signed, and Moss checks the signature and the file before installing anything.
 
